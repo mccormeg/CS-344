@@ -1,0 +1,7 @@
+ROOM NAME: Ministry_of_Magic
+CONNECTION 1: Quiddich_Pitch
+CONNECTION 2: Knockturn_Alley
+CONNECTION 3: Forbidden_Forest
+CONNECTION 4: Black_Lake
+CONNECTION 5: Diagon_Alley
+ROOM TYPE: MID_ROOM

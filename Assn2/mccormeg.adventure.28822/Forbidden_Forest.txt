@@ -1,0 +1,6 @@
+ROOM NAME: Forbidden_Forest
+CONNECTION 1: Quiddich_Pitch
+CONNECTION 2: Ministry_of_Magic
+CONNECTION 3: Diagon_Alley
+CONNECTION 4: Hogsmeed
+ROOM TYPE: MID_ROOM

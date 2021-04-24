@@ -1,0 +1,6 @@
+ROOM NAME: Hogsmeed
+CONNECTION 1: Quiddich_Pitch
+CONNECTION 2: Diagon_Alley
+CONNECTION 3: Forbidden_Forest
+CONNECTION 4: Black_Lake
+ROOM TYPE: END_ROOM

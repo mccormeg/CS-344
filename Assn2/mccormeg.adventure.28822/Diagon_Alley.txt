@@ -1,0 +1,8 @@
+ROOM NAME: Diagon_Alley
+CONNECTION 1: Quiddich_Pitch
+CONNECTION 2: Knockturn_Alley
+CONNECTION 3: Forbidden_Forest
+CONNECTION 4: Ministry_of_Magic
+CONNECTION 5: Black_Lake
+CONNECTION 6: Hogsmeed
+ROOM TYPE: MID_ROOM

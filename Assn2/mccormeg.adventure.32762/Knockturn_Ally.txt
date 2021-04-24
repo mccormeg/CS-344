@@ -1,0 +1,6 @@
+ROOM NAME: Knockturn_Ally
+CONNECTION 1: Hogwarts
+CONNECTION 2: Quiddich_Pitch
+CONNECTION 3: Gringotts
+CONNECTION 4: Diagon_Ally
+ROOM TYPE: START_ROOM

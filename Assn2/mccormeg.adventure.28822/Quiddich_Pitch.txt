@@ -1,0 +1,8 @@
+ROOM NAME: Quiddich_Pitch
+CONNECTION 1: Hogsmeed
+CONNECTION 2: Ministry_of_Magic
+CONNECTION 3: Diagon_Alley
+CONNECTION 4: Forbidden_Forest
+CONNECTION 5: Knockturn_Alley
+CONNECTION 6: Black_Lake
+ROOM TYPE: START_ROOM

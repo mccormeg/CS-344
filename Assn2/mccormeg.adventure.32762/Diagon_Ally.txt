@@ -1,0 +1,6 @@
+ROOM NAME: Diagon_Ally
+CONNECTION 1: Hogsmeed
+CONNECTION 2: Quiddich_Pitch
+CONNECTION 3: Hogwarts
+CONNECTION 4: Knockturn_Ally
+ROOM TYPE: MID_ROOM

@@ -1,0 +1,103 @@
+Pre-script Info
+PID: 10591
+: 
+: BEGINNING TEST SCRIPT - MAX 150 POINTS (10 more points for comments)
+: 
+: 
+: --------------------
+: ls (10 points for returning dir contents)
+: 1
+a.out
+junk
+mccormeg.smallsh.zip
+p3testscript
+readme.txt
+results
+smallsh.c
+test.c
+: 
+: 
+: --------------------
+: ls out junk
+: : 
+: 
+: --------------------
+: cat junk (20 points for correctly returning contents of junk)
+: 1
+a.out
+junk
+mccormeg.smallsh.zip
+p3testscript
+readme.txt
+results
+smallsh.c
+test.c
+: 
+: 
+: --------------------
+: wc in junk (20 points for returning correct numbers from wc)
+:  9  9 83
+: 
+: 
+: --------------------
+: test -f badfile (10 points for returning error value of 1)
+: : Signal: 1
+Termination signal: 0
+: 
+: 
+: --------------------
+: wc in badfile (10 points for returning text error)
+: file_in: badfile
+File Error: Can't open file badfile
+: 
+: 
+: --------------------
+: badfile (10 points for returning text error)
+: Command Error
+: 
+: 
+: --------------------
+: sleep 100 background (10 points for returning process ID of sleeper)
+: Background pid: 10687
+: 
+: 
+: --------------------
+: pkill -signal SIGTERM sleep (10 points for pid of killed process, 10 points for signal)
+: (Ignore message about Operation Not Permitted)
+: Background pid complete: 10687
+Termination signal: 15
+: 
+: 
+: --------------------
+: sleep 1 background (10 pts for pid of bg ps when done, 10 for exit value)
+: Background pid: 10717
+: Background pid complete: 10717
+Exit status: 0
+: 
+: 
+: --------------------
+: pwd
+: /nfs/stak/students/m/mccormeg/cs344/Assn3
+: 
+: 
+: --------------------
+: cd
+: : 
+: 
+: --------------------
+: pwd (10 points for being in the HOME dir)
+: /nfs/stak/students/m/mccormeg
+: 
+: 
+: --------------------
+: mkdir testdir10591
+: : 
+: 
+: --------------------
+: cd testdir10591
+: : 
+: 
+: --------------------
+: pwd (10 points for being in the newly created dir)
+: /nfs/stak/students/m/mccormeg/testdir10591
+: 

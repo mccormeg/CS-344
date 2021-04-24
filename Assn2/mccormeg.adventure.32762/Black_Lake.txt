@@ -1,0 +1,4 @@
+ROOM NAME: Black_Lake
+CONNECTION 1: Quiddich_Pitch
+CONNECTION 2: Hogwarts
+ROOM TYPE: MID_ROOM

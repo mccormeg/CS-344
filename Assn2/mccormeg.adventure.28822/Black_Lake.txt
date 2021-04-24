@@ -1,0 +1,7 @@
+ROOM NAME: Black_Lake
+CONNECTION 1: Knockturn_Alley
+CONNECTION 2: Ministry_of_Magic
+CONNECTION 3: Diagon_Alley
+CONNECTION 4: Quiddich_Pitch
+CONNECTION 5: Hogsmeed
+ROOM TYPE: MID_ROOM

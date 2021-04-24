@@ -1,0 +1,8 @@
+ROOM NAME: Hogwarts
+CONNECTION 1: Knockturn_Ally
+CONNECTION 2: Gringotts
+CONNECTION 3: Quiddich_Pitch
+CONNECTION 4: Hogsmeed
+CONNECTION 5: Diagon_Ally
+CONNECTION 6: Black_Lake
+ROOM TYPE: MID_ROOM

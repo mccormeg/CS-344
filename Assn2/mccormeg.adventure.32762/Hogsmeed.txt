@@ -1,0 +1,5 @@
+ROOM NAME: Hogsmeed
+CONNECTION 1: Hogwarts
+CONNECTION 2: Diagon_Ally
+CONNECTION 3: Gringotts
+ROOM TYPE: MID_ROOM

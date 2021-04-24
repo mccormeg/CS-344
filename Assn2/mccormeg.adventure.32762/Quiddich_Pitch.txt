@@ -1,0 +1,7 @@
+ROOM NAME: Quiddich_Pitch
+CONNECTION 1: Knockturn_Ally
+CONNECTION 2: Hogwarts
+CONNECTION 3: Gringotts
+CONNECTION 4: Diagon_Ally
+CONNECTION 5: Black_Lake
+ROOM TYPE: END_ROOM

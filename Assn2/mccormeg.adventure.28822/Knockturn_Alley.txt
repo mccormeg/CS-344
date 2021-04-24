@@ -1,0 +1,6 @@
+ROOM NAME: Knockturn_Alley
+CONNECTION 1: Black_Lake
+CONNECTION 2: Ministry_of_Magic
+CONNECTION 3: Quiddich_Pitch
+CONNECTION 4: Diagon_Alley
+ROOM TYPE: MID_ROOM
